@@ -1,5 +1,5 @@
 Paste this in
-C:\Users\MAC\AppData\Roaming\Playnite\Themes\Fullscreen
+C:\Users\(your user)\AppData\Roaming\Playnite\Themes\Fullscreen
 
 *install ps5ish original skin from playnite first
 
