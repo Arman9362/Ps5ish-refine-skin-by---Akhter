@@ -9,8 +9,8 @@ First, download and install the **PS5ish Original** skin from Playnite.
 
 ### Step 2: Apply the Enhanced Skin  
 1. Copy the contents of this repository.  
-2. Paste them into the following directory:[C:\Users{YourUser}\AppData\Roaming\Playnite\Themes\Fullscreen]
-3. If the skin does not work properly, try this alternative method:  
+2. Paste them into the following directory:C:\Users{YourUser}\AppData\Roaming\Playnite\Themes\Fullscreen
+4. If the skin does not work properly, try this alternative method:  
 - Open the **PS5ish Original** skin folder.  
 - Copy the contents of this enhanced skin and paste them into the original **PS5ish** skin folder, replacing existing files.  
 
